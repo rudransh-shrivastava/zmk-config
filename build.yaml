@@ -20,7 +20,9 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    #shield: corne_left
+    shield: tester_pro_micro
   - board: nice_nano_v2
-    shield: corne_right
+  #shield: corne_right
+    shield: tester_pro_micro
     snippet: zmk-usb-logging
