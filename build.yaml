@@ -20,5 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
+    shield: dactyl_left
+    snippet: zmk-usb-logging
+  - board: nice_nano_v2
     shield: dactyl_right
     snippet: zmk-usb-logging
